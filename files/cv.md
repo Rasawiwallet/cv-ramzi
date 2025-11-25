@@ -1,6 +1,6 @@
 <div align= "center">
 
-### CURRICULUM VITAE
+<h1>CURRICULUM VITAE</h1>
 
 <img src="https://github.com/Rasawiwallet/cv-ramzi/blob/b3e4aeb96205cdb1404a2d072cf026eb852f0a5e/photos/BACKMERAH.png" width="200">
 
