@@ -9,7 +9,7 @@
 <table>
     <tr>
         <td align= "center" width="30%">
-            <img src="https://github.com/Rasawiwallet/cv-ramzi/blob/b3e4aeb96205cdb1404a2d072cf026eb852f0a5e/photos/logowa.png">
+            <img src="https://github.com/Rasawiwallet/cv-ramzi/blob/d87f5f19a87d5094e5630be3c450bfbd4c5f4081/photos/logowa.png">
             <p>teks 1</p>
         </td>
         <td align= "center" width="30%">
