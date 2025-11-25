@@ -1,7 +1,8 @@
 <div align= "center">
 
 ### CURRICULUM VITAE
-<img src="C:\Users\Yoriko-Mousuko\Documents\GitHub\cv-ramzi\photos\BACKMERAH.png">
+
+<img src="C:\Users\Yoriko-Mousuko\Documents\GitHub\cv-ramzi\photos\BACKMERAH.png" width="200">
 
 ## Ramzi Selpora Widiyanto
 </div>
