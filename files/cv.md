@@ -4,7 +4,7 @@
 
 <img src="https://github.com/Rasawiwallet/cv-ramzi/blob/b3e4aeb96205cdb1404a2d072cf026eb852f0a5e/photos/BACKMERAH.png" width="200">
 
-<h1>Ramzi Selpora Widiyanto</h1>
+<h2>Ramzi Selpora Widiyanto</h2>
 
 <table>
     <tr>
