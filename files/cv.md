@@ -4,7 +4,7 @@
 
 <img src="https://github.com/Rasawiwallet/cv-ramzi/blob/b3e4aeb96205cdb1404a2d072cf026eb852f0a5e/photos/BACKMERAH.png" width="200">
 
-## Ramzi Selpora Widiyanto
+<h1>Ramzi Selpora Widiyanto</h1>
 
 <table>
     <tr>
@@ -17,8 +17,12 @@
             </p>
         </td>
         <td align= "center" width="30%">
-            <img src=>
-            <p>teks 2</p>
+            <img src="https://github.com/Rasawiwallet/cv-ramzi/blob/94f4d6f7ad54c0665761578d18c1bb6d6e95db23/photos/logoemail.png" width="100">
+            <p>
+                <b>
+                    <a href="mailto:rasawi46rsw@gmail.com">rasawi46rsw@gmail.com</a>
+                </b>
+            </p>
         </td>
         <td align= "center" width="30%">
             <img src=>
