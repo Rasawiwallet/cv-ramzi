@@ -9,8 +9,8 @@
 <table>
     <tr>
         <td align= "center" width="30%">
-            <img src="https://github.com/Rasawiwallet/cv-ramzi/blob/d87f5f19a87d5094e5630be3c450bfbd4c5f4081/photos/logowa.png">
-            <p>teks 1</p>
+            <img src="https://github.com/Rasawiwallet/cv-ramzi/blob/d87f5f19a87d5094e5630be3c450bfbd4c5f4081/photos/logowa.png" width="100">
+            <p><b>083195430556</b></p>
         </td>
         <td align= "center" width="30%">
             <img src=>
