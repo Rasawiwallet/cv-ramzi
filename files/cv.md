@@ -38,6 +38,30 @@
 <p>-Mengoperasikan komputer server, sistem kasir, dan memantau CCTV.</p>
 <p>-Menerima barang dropping, memproses retur, dan memastikan akurasi administrasi.</p>
 
+<h2><b>PENGALAMAN PRAKTIK</b></h2>
+<h3><p>Dinas Komunikasi dan Informatika Kabupaten Kebumen – Ratih TV (2 Januari 2020-12 Maret 2020)</p></h3>
+Mengikuti praktik kerja dengan materi:
+<p>Pengambilan Video saat ON AIR</p>
+<p>Planning Meeting mengenai hal teknis Stasiun TV</p>
+<p>Pra Produksi, Produksi, Pasca Produksi</p>
+<p>Membantu Tim di Backstage</p>
+
+<h2><b>PENDIDIKAN</b></h2>
+<p>UNIVERSITAS PUTRA BANGSA KEBUMEN– Ilmu Komputer (2023 – sekarang)</b>
+<p>SMK TAMAN KARYA MADYA TEKNIK KEBUMEN – Multimedia (2018-2021)</b>
+<p>SMP NEGERI 2 KEBUMEN – (2015-2018)</b>
+<p>SDN 1 BUMIREJO KEBUMEN DAN SDN 1 TAMBAKBULUSAN  DEMAK – (2009-2015)</b>
+<p>TK ISLAM PENGAYOMAN TANGERANG –  (2008 – 2009)</b>
+
+<h2><b>KEAHLIAN</b></h2>
+<p>• Skill Teknis</p>
+<p>Memiliki kemampuan dasar di bidang hardware: perakitan PC, perawatan, serta troubleshooting perangkat komputer dan jaringan sederhana.</p>
+<p>Menguasai penggunaan software : instalasi aplikasi atau windows laptop/computer, produktivitas (Microsoft Office) dan aplikasi multimedia (dasar editing video, aplikasi desain dasar).</p>
+<p>Berpengalaman dalam instalasi, konfigurasi, dan perbaikan software komputer (sistem operasi, aplikasi kasir, server, dan CCTV).</p>
+<p>• Skill Non Teknis</p>
+<p>Komunikasi baik dalam menjelaskan permasalahan teknis kepada pelanggan.</p>
+<p>Manajemen waktu yang efektif saat menangani beberapa perangkat sekaligus.</p>
+<p>Memberikan pelayanan ramah, cepat, dan solutif sesuai kebutuhan pelanggan.</p>
 
 
 </div>
