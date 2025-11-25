@@ -5,7 +5,6 @@
 <img src="C:\Users\Yoriko-Mousuko\Documents\GitHub\cv-ramzi\photos\BACKMERAH.png" width="200">
 
 ## Ramzi Selpora Widiyanto
-</div>
 
 <table>
     <tr>
@@ -23,6 +22,9 @@
         </td>
     <tr>
 </table>
+
+</div>
+
 
 
 
