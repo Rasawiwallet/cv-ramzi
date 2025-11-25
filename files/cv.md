@@ -2,7 +2,7 @@
 
 ### CURRICULUM VITAE
 
-<img src="C:\Users\Yoriko-Mousuko\Documents\GitHub\cv-ramzi\photos\BACKMERAH.jpg" width="200">
+<img src="photos/BACKMERAH.png">
 
 ## Ramzi Selpora Widiyanto
 
