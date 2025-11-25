@@ -12,17 +12,14 @@
             <img src="https://raw.githubusercontent.com/Rasawiwallet/cv-ramzi/main/photos/logowa.png" width="100">
             <p><b><a href="https://api.whatsapp.com/send/?phone=6283195430556">083195430556</a></b></p>
         </td>
-
         <td align="center" width="30%" style="border: none;">
             <img src="https://raw.githubusercontent.com/Rasawiwallet/cv-ramzi/main/photos/logoemail.png" width="100">
             <p><b><a href="mailto:rasawi46rsw@gmail.com">rasawi46rsw@gmail.com</a></b></p>
         </td>
-
         <td align="center" width="30%" style="border: none;">
             <img src="https://raw.githubusercontent.com/Rasawiwallet/cv-ramzi/main/photos/logoloc.png" width="100">
             <p><b><a href="https://www.google.com/maps/place/Kebumen">Kebumen, Jawa Tengah</a></b></p>
         </td>
-        
     </tr>
 </table>
 
