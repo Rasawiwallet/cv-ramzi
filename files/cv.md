@@ -23,10 +23,21 @@
     </tr>
 </table>
 
-<h3><b>PROFIL</b></h3>
+<h2><b>PROFIL</b></h2>
 <p>I am a Computer Science student at Putra Bangsa University with a strong interest in information technology. In between my busy schedule, I actively pursue my sports hobby, particularly running, which helps maintain discipline and balance in my life.</p>
 <p>I possess competencies in software, including operating system installation (Windows), driver installation, and troubleshooting various software issues on laptops and computers. Furthermore, I am also proficient in hardware, including device disassembly, maintenance, and an understanding of computer internal components.</p>
 <p>With this educational background and skills, I am committed to continuing to develop and make my best contribution in the field of information technology.</p>
+
+<h2><b>PENGALAMAN KERJA</b></h2>
+<h3><p>Pramuniaga – Minimarket SaguMart KPRI Sumber Agung Setda Kebumen (2021 – Oktober 2025).</p></h3>
+<p>Bertanggung jawab dalam menjaga kelancaran operasional minimarket dengan fokus pada pelayanan pelanggan, pengelolaan barang, serta pemeliharaan sistem pendukung.</p>
+<h3><p>Tanggung Jawab Utama:</p></h3>
+<p>-Menjaga kebersihan area dalam dan luar minimarket untuk kenyamanan pelanggan.</p>
+<p>-Melayani pelanggan, anggota, dan sales dengan ramah serta responsif.</p>
+<p>-Mengatur display, stok, dan rotasi barang agar selalu rapi dan terkontrol.</p>
+<p>-Mengoperasikan komputer server, sistem kasir, dan memantau CCTV.</p>
+<p>-Menerima barang dropping, memproses retur, dan memastikan akurasi administrasi.</p>
+
 
 
 </div>
