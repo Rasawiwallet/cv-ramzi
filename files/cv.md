@@ -1,12 +1,8 @@
 <div align="center">
-
     <h1>CURRICULUM VITAE</h1>
-
     <!-- FOTO PROFIL -->
     <img src="https://raw.githubusercontent.com/Rasawiwallet/cv-ramzi/main/photos/BACKMERAH.png" width="200">
-
     <h2>Ramzi Selpora Widiyanto</h2>
-
     <!-- KONTAK -->
     <table style="border-collapse: collapse; border: none; margin-top: 20px;">
         <tr>
@@ -14,19 +10,16 @@
                 <img src="https://raw.githubusercontent.com/Rasawiwallet/cv-ramzi/main/photos/logowa.png" width="80">
                 <p><b><a href="https://api.whatsapp.com/send/?phone=6283195430556">083195430556</a></b></p>
             </td>
-
             <td align="center" width="30%" style="border: none;">
                 <img src="https://raw.githubusercontent.com/Rasawiwallet/cv-ramzi/main/photos/logoemail.png" width="80">
                 <p><b><a href="mailto:rasawi46rsw@gmail.com">rasawi46rsw@gmail.com</a></b></p>
             </td>
-
             <td align="center" width="30%" style="border: none;">
                 <img src="https://raw.githubusercontent.com/Rasawiwallet/cv-ramzi/main/photos/logoloc.png" width="80">
                 <p><b><a href="https://www.google.com/maps/place/Kebumen">Kebumen, Jawa Tengah</a></b></p>
             </td>
         </tr>
     </table>
-
     <!-- PROFIL -->
     <h2><b>PROFIL</b></h2>
     <p>
@@ -38,12 +31,10 @@
     <p>
         With my background and skills, I am committed to improving and contributing to the IT field.
     </p>
-
     <!-- PENGALAMAN KERJA -->
     <h2><b>PENGALAMAN KERJA</b></h2>
     <h3>Pramuniaga – Minimarket SaguMart KPRI (2021 – Oktober 2025)</h3>
     <p>Bertanggung jawab terhadap operasional minimarket dengan fokus pada pelayanan, display barang, dan sistem kasir.</p>
-
     <h3>Tanggung Jawab Utama:</h3>
     <ul style="text-align: left; display: inline-block;">
         <li>Menjaga kebersihan area dalam dan luar minimarket.</li>
@@ -52,7 +43,6 @@
         <li>Mengoperasikan komputer server, sistem kasir, dan memonitor CCTV.</li>
         <li>Menerima barang dropping, memproses retur, dan mencatat administrasi.</li>
     </ul>
-
     <!-- PENGALAMAN PRAKTIK -->
     <h2><b>PENGALAMAN PRAKTIK</b></h2>
     <h3>Dinas Komunikasi dan Informatika – Ratih TV (Jan–Maret 2020)</h3>
@@ -62,7 +52,6 @@
         <li>Pra Produksi, Produksi, Pasca Produksi.</li>
         <li>Membantu tim backstage.</li>
     </ul>
-
     <!-- PENDIDIKAN -->
     <h2><b>PENDIDIKAN</b></h2>
     <ul style="text-align: left; display: inline-block;">
@@ -72,10 +61,8 @@
         <li>SDN 1 Bumirejo / SDN 1 Tambakbulusan Demak (2009–2015)</li>
         <li>TK Islam Pengayoman Tangerang (2008–2009)</li>
     </ul>
-
     <!-- KEAHLIAN -->
     <h2><b>KEAHLIAN</b></h2>
-
     <h3>• Skill Teknis</h3>
     <ul style="text-align: left; display: inline-block;">
         <li>Perakitan PC, perawatan, dan troubleshooting.</li>
@@ -83,7 +70,6 @@
         <li>Penggunaan Microsoft Office dan aplikasi multimedia dasar.</li>
         <li>Konfigurasi sistem kasir, server, dan CCTV.</li>
     </ul>
-
     <h3>• Skill Non Teknis</h3>
     <ul style="text-align: left; display: inline-block;">
         <li>Komunikasi efektif menjelaskan masalah teknis.</li>
