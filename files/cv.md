@@ -54,11 +54,11 @@ Mengikuti praktik kerja dengan materi:
 <p>TK ISLAM PENGAYOMAN TANGERANG –  (2008 – 2009)</b>
 
 <h2><b>KEAHLIAN</b></h2>
-<p>• Skill Teknis</p>
+<h3><p>• Skill Teknis</p></h3>
 <p>Memiliki kemampuan dasar di bidang hardware: perakitan PC, perawatan, serta troubleshooting perangkat komputer dan jaringan sederhana.</p>
 <p>Menguasai penggunaan software : instalasi aplikasi atau windows laptop/computer, produktivitas (Microsoft Office) dan aplikasi multimedia (dasar editing video, aplikasi desain dasar).</p>
 <p>Berpengalaman dalam instalasi, konfigurasi, dan perbaikan software komputer (sistem operasi, aplikasi kasir, server, dan CCTV).</p>
-<p>• Skill Non Teknis</p>
+<h3><p>• Skill Non Teknis</p></h3>
 <p>Komunikasi baik dalam menjelaskan permasalahan teknis kepada pelanggan.</p>
 <p>Manajemen waktu yang efektif saat menangani beberapa perangkat sekaligus.</p>
 <p>Memberikan pelayanan ramah, cepat, dan solutif sesuai kebutuhan pelanggan.</p>
