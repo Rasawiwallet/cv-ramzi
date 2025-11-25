@@ -6,7 +6,7 @@
 
 <h2>Ramzi Selpora Widiyanto</h2>
 
-<table style="none">
+<table style="display: none;">
     <tr>
         <td align= "center" width="30%">
             <img src="https://github.com/Rasawiwallet/cv-ramzi/blob/d87f5f19a87d5094e5630be3c450bfbd4c5f4081/photos/logowa.png" width="100">
